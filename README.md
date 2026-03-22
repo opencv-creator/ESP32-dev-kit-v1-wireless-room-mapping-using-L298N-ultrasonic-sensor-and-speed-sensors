@@ -20,7 +20,7 @@ https://dronebotworkshop.com/robot-car-with-speed-sensors/
 https://www.youtube.com/watch?v=oQQpAACa3ac
 
 ***************************************************************************************************
-HOW TO ASSEMBLED 4 WHEELED ROBOT CHASSIS
+HOW TO ASSEMBLE 4-WHEELED ROBOT CHASSIS
 
 https://www.youtube.com/watch?v=2EYv6FJH4ww&list=PLNlGfOpbU1otd4UpPlZKb6BHyrvKKH1et&index=159
 
