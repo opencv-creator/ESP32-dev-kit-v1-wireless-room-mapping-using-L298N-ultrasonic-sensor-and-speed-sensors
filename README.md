@@ -1,4 +1,4 @@
-# esp32_room_mapping_using_ultrasonic_sensor and speed sensor
+# esp32 room mapping using ultrasonic sensor and speed sensor
 map the room using ESP32 and ultrasonic sensor and plot it in Processing IDE 
 
 
