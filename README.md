@@ -10,3 +10,7 @@ https://dronebotworkshop.com/robot-car-with-speed-sensors/
 https://www.youtube.com/watch?v=oQQpAACa3ac
 
 
+https://kitsguru.com/collections/robotics-chassis/products/4wd-double-layer-transparent-robot-car-chassis-kit-diy-robotics-platform
+
+https://kitsguru.com/products/speed-measuring-sensor-groove-coupler-module-for-arduino-1?_pos=2&_sid=462693c96&_ss=r
+
