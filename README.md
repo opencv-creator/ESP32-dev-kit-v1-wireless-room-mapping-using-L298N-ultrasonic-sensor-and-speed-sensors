@@ -2,7 +2,8 @@
 map the room using ESP32 dev kit module v1 ,speed sensors, L298N and ultrasonic sensor and plot it wirelessly in Processing IDE. 
 
 **************************************caution *************************************************
-please dont try the random codes present in internet for driving the L298N and motors as it has created smoke in my 4 wheeled robot, 
+
+please dont try the random codes present in internet for driving the L298N and motors, as it has created SMOKE in my 4 wheeled robot, 
 use PWM less than 200 for L298N motor driver so that it doesnt push more current into motors.
 
 The ode present in this random nerd tutorial website has create smoke in my motors as it contains loop to make PWM or duty cycle to 255
