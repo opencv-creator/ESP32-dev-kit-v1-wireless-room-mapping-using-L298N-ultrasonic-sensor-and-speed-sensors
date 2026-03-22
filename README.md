@@ -9,7 +9,7 @@ The ode present in this random nerd tutorial website has create smoke in my moto
 https://randomnerdtutorials.com/esp32-dc-motor-l298n-motor-driver-control-speed-direction/
 
 ************************************************************************************************
-
+CREDITS TO DRONE BOT WORKSHOP
 
 this project uses esp32 , ultrasonic sensor , speed sensors and 4 wheeles robot for mapping room using processing IDE through WIFI connection.
 credits goes to dronebotworkshop website, the youtube video has ckear explanation of the code he has written, but the code present in his website 
