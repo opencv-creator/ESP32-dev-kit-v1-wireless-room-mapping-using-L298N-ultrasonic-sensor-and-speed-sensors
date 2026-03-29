@@ -3,8 +3,8 @@
 #include <ESP32Servo.h>
 
 
-const char* ssid = "MONEY_IS_GOD_2GHZ";         // Your Wi-Fi network SSID
-const char* password = "abrakadabra123"; // Your Wi-Fi network password
+const char* ssid = "YOUR_WIFI_NAME";         // Your Wi-Fi network SSID
+const char* password = "YOUR_WIFI_PASSWORDD"; // Your Wi-Fi network password
 const char* serverIP = "192.168.0.113"; // The IP address of your PC running Processing
 const uint16_t serverPort = 5204;      // The port you used in the Processing sketch
 
